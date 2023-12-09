@@ -1,0 +1,32 @@
+{
+  "name": "trabalhofinal-ppiwebchat",
+  "version": "1.0.0",
+  "description": "Projeto para desenvolvimento de um web chat - trabalho final da disciplina de Programação para Internet - 2º semestre de ADS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deivid-maia/trabalhoFinal-PPIwebchat.git"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "webchat",
+    "sessão",
+    "express",
+    "cookies"
+  ],
+  "author": "Deivid Lucas Muller Maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deivid-maia/trabalhoFinal-PPIwebchat/issues"
+  },
+  "homepage": "https://github.com/deivid-maia/trabalhoFinal-PPIwebchat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
